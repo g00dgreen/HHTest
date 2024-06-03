@@ -1,0 +1,252 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "*" : {
+
+    },
+    "%lld вакансий" : {
+      "localizations" : {
+        "ru" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld вакансии"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld вакансий"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld вакансия"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld вакансий"
+                }
+              },
+              "zero" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld вакансий"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld человек" : {
+      "localizations" : {
+        "ru" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld человека"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld человек"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "%lld человек"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld человек"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld человек сейчас смотрят" : {
+      "localizations" : {
+        "ru" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld человека сейчас смотрят"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "%lld человек сейчас смотрят"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "%lld человек сейчас смотрят"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "%lld человек сейчас смотрят"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Some error: %@" : {
+
+    },
+    "Tребуемый опыт: %@" : {
+
+    },
+    "Будьте первым" : {
+
+    },
+    "Вакансии для вас" : {
+
+    },
+    "Ваши задачи" : {
+
+    },
+    "Войти с паролем" : {
+
+    },
+    "Вход в личный кабинет" : {
+
+    },
+    "Вы ввели неверный e-mail" : {
+
+    },
+    "Задайте вопрос работодателю" : {
+
+    },
+    "Избранное" : {
+
+    },
+    "Напишите его, чтобы подтвердить, что это вы, а не кто-то другой входит в личный кабинет" : {
+
+    },
+    "Он получит его с откликом на вакансию" : {
+
+    },
+    "откикнитесь сейчас" : {
+
+    },
+    "Отправили код на %@" : {
+
+    },
+    "Поиск работы" : {
+
+    },
+    "Поиск сотрудников" : {
+
+    },
+    "Показать еще %lld вакансий" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Показать еще %lld вакансии"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Показать еще %lld вакансии"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Показать еще %lld вакансию"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "new",
+                  "value" : "Показать еще %lld вакансий"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Размещение вакансий и доступ к базе резюме" : {
+
+    },
+    "Сейчас просматривает %lld человек" : {
+      "localizations" : {
+        "ru" : {
+          "variations" : {
+            "plural" : {
+              "few" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Сейчас просматривает %lld человека"
+                }
+              },
+              "many" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "Сейчас просматривает %lld человек"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "Сейчас просматривает %lld человек"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "needs_review",
+                  "value" : "Сейчас просматривает %lld человек"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Тут никого" : {
+
+    },
+    "Тут ничего нет" : {
+
+    },
+    "Тут пусто" : {
+
+    },
+    "уже откликнулись" : {
+
+    }
+  },
+  "version" : "1.0"
+}
